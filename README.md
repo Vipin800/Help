@@ -2,3 +2,4 @@
 to needy
 poor
 week
+small
